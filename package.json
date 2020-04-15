@@ -1,0 +1,28 @@
+{
+  "name": "random-messages-names",
+  "version": "1.0.1",
+  "description": "random de mensajes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Marco Madera <marcomaderaa@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoMadera/random-messages-names.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MarcoMadera/random-messages-names/issues"
+  },
+  "homepage": "https://github.com/MarcoMadera/random-messages-names#readme"
+}
