@@ -1,7 +1,7 @@
 {
   "name": "random-messages-names",
   "version": "1.0.1",
-  "description": "random de mensajes",
+  "description": "Names and randoms messages that I have heard while I'm working",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +14,7 @@
   "author": "Marco Madera <marcomaderaa@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "bin/global.js"
+    "random-name": "bin/global.js"
   },
   "preferGlobal": true,
   "repository": {
