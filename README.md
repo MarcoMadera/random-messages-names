@@ -1,11 +1,11 @@
 # random-messages-names
 
-Names and randoms messages that I have heard while I'm working
+Every time I write a name variable and messages to test, I don't know what to put in it, so I'll leave it to the random.
 
 ## Install
 
 ```npm
-npm install -g random-messages-names
+npm i random-messages-names
 ```
 
 # Usage
