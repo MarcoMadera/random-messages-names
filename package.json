@@ -14,7 +14,8 @@
   "author": "Marco Madera <marcomaderaa@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-name": "bin/global.js"
+    "random-msg": "bin/randomMsg.js",
+    "random-name": "bin/randomName.js"
   },
   "preferGlobal": true,
   "repository": {

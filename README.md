@@ -11,6 +11,7 @@ npm i random-messages-names
 # Usage
 
 ```bash
+random-msg
 random-name
 ```
 
