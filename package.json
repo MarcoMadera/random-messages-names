@@ -1,11 +1,8 @@
 {
   "name": "random-messages-names",
-  "version": "1.0.3",
-  "description": "Names and randoms messages that I have heard while I'm working",
+  "version": "1.0.4",
+  "description": "This generates random names and messages, I'll leave it to the random.",
   "main": "src/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "javascript",
     "node",
@@ -14,13 +11,15 @@
   "author": "Marco Madera <marcomaderaa@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "bin/randomMsg.js",
-    "random-name": "bin/randomName.js"
+    "random-name": "bin/randomName.js",
+    "random-firstname": "bin/randomFirstName.js",
+    "random-lastname": "bin/randomLastName.js",
+    "random-msg": "bin/randomMsg.js"
   },
   "preferGlobal": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MarcoMadera/random-messages-names.git"
+    "url": "https://github.com/MarcoMadera/random-messages-names.git"
   },
   "bugs": {
     "url": "https://github.com/MarcoMadera/random-messages-names/issues"

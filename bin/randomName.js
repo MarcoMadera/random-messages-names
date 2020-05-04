@@ -1,4 +1,4 @@
 #!/usr/bin/env node
 let random = require('../src/index');
 
-random.randomName();
+console.log(random.Name())
