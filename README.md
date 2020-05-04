@@ -14,7 +14,9 @@ let RandomMessagesNames = require('random-messages-names');
 
 console.log(RandomMessagesNames.Msg()); 
 /* output i.e: 
-  Cai Burris park class to dam dollar Damien Maynard truthful as soon as metal he crush measure euphonium Copeland hard two opinion Chapman x-ray liquid to hover chinese we lowly since buffer I behave print station they inform eight butcher
+  Cai Burris park class to dam dollar Damien Maynard truthful as soon as metal he crush measure euphonium 
+  Copeland hard two opinion Chapman x-ray liquid to hover chinese we lowly since buffer I behave print 
+  station they inform eight butcher
 */
 
 console.log(RandomMessagesNames.Name()); 
